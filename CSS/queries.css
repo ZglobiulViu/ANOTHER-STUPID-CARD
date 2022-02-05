@@ -1,0 +1,6 @@
+@media (max-width: 24em) {
+  .card-component {
+    padding: 2em;
+    height: 100%;
+  }
+} ;
